@@ -9,6 +9,7 @@ public enum ResultEnum {
     SUCCESS(0,"添加成功"),
     PRIMARY_SCHOOL(100,"你还在上小学吧"),
     MIDDLE_SCHOOL(101,"你还在上中学吧"),
+    HIGH_SCHOOL(102,"你还在读初中吧"),
     ;
     private Integer code;
     private String msg;
