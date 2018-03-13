@@ -1,2 +1,2 @@
 # SpringBootProjectDemo
-使用SpringBoot开发的一个项目示例
+使用SpringBoot开发的一个项目demo
